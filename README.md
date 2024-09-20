@@ -1,17 +1,16 @@
-# 📄 My Professional CV
-
+## 📄 My Professional CV
 Welcome to my CV repository! This repository contains my professional CV in PDF format. It highlights my skills, experience, and achievements.
 
-## 📂 Contents
 
+## 📂 Contents
 - 📑 CV
 
-## 📌 Usage
 
+## 📌 Usage
 Feel free to download and review my CV. If you have any questions or need further information, please contact me.
 
-## 📬 Contact
 
+## 📬 Contact
 - **Email**: jotaduranbon@gmail.com
 
 
